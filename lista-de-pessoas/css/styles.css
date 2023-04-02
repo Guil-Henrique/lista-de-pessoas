@@ -86,7 +86,7 @@ header{
     flex: 1;
 }
 /* lista */
-.lista{
+.lista-content{
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -94,7 +94,7 @@ header{
     border-bottom: 1px solid #ddd;
     transition: .3s;
 }
-.lista h3{
+.lista-content h3{
     flex: 1;
     font-size: .9rem;
 
